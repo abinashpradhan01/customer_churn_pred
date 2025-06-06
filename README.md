@@ -1,5 +1,5 @@
 # 🎯 Customer Churn Prediction App
-
+[Live Demo -](https://customerchurnpred-ann.streamlit.app/)
 A fast and intuitive Streamlit web application that predicts customer churn using a neural network model. Built for banking/telecom industries to identify customers at risk of leaving.
 
 ## 🚀 Features
